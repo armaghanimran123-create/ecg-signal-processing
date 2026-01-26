@@ -1,5 +1,3 @@
-# speech-enhancement-dsp
-Python implementation of Wiener filtering for speech noise reduction
 # Real-Time ECG Signal Processing & Noise Cancellation
 
 ## 📌 Overview
